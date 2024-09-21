@@ -8,7 +8,7 @@
 **[https://discord.h00dy.me](https://discord.h00dy.me/)**
 ##### solution 
 Head over to rules channel, in the title there's the flag 
-![Pasted image 20240912195745.png](images/Pasted image 20240912195745.png)
+[![Pasted image 20240912195745.png](/images/Pasted image 20240912195745.png)](https://github.com/hoodietramp/h4ckp13t-CTF/blob/main/images/Pasted%20image%2020240912195745.png)
 
 **flag{W3lc0m3_t0_h4ckp13T_CTF}**
 
