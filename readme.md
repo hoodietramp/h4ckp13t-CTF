@@ -8,7 +8,7 @@
 **[https://discord.h00dy.me](https://discord.h00dy.me/)**
 ##### solution 
 Head over to rules channel, in the title there's the flag 
-![[Pasted image 20240912195745.png]]
+![Pasted image 20240912195745.png](images/Pasted image 20240912195745.png)
 
 **flag{W3lc0m3_t0_h4ckp13T_CTF}**
 
@@ -444,6 +444,3 @@ Now, we can buy any cake we want and get the flag (:
 ![[Pasted image 20240912213513.png]]
 
 > These were all the CTF Challenges guys. Thank you again for playing <3
-
-Much love 
-h00dy
