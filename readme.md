@@ -236,6 +236,12 @@ looks like some kind of encoding lets check it on https://www.dcode.fr/cipher-id
 its HEX/2 ASCII encoding lets decode it from same site or any as per your choice
 and we have the flag
 **flag{v1s1bl3_str1ngs}**
+---
+# Png Got txt
+
+Just use stegpy tool, install it using - `pip install stegpy`
+
+![image](https://github.com/user-attachments/assets/c652299f-a4d7-43cc-acee-71d021b0d07e)
 
 ---
 # JPG Got txt
